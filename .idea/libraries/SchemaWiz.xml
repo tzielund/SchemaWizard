@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SchemaWiz">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/SchemaWiz.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
