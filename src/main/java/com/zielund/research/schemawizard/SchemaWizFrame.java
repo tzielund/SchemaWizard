@@ -684,7 +684,7 @@ public class SchemaWizFrame extends JFrame
 	 */
 	private void readConfiguration()
 	{
-		File configFile = new File("c:/bin/SchemaWiz.properties");
+		File configFile = new File("SchemaWiz.properties");
 		if (configFile.exists())
 		{
 			try
